@@ -1,0 +1,7 @@
+.navigation{
+    @apply py-layout
+}
+
+.navigation::-webkit-scrollbar {
+    width: 0;
+}

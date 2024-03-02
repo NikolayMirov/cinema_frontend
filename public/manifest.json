@@ -1,0 +1,52 @@
+{
+	"theme_color": "#E30B13",
+	"background_color": "#191B1F",
+	"scope": "/",
+	"start_url": "/",
+	"name": "Morello Cinema",
+	"app_name": "Morello Cinema",
+	"short_name": "Morello Cinema",
+	"description": "Watch MovieApp movies and TV shows online or stream right to your browser.",
+	"icons": [
+		{
+			"src": "/favicons/apple-touch-icon-57x57.png",
+			"sizes": "57x57",
+			"type": "image/png"
+		},
+		{
+			"src": "/favicons/apple-touch-icon-57x57.png",
+			"sizes": "72x72",
+			"type": "image/png"
+		},
+		{
+			"src": "/favicons/apple-touch-icon-57x57.png",
+			"sizes": "76x76",
+			"type": "image/png"
+		},
+		{
+			"src": "/favicons/apple-touch-icon-57x57.png",
+			"sizes": "114x114",
+			"type": "image/png"
+		},
+		{
+			"src": "/favicons/apple-touch-icon-57x57.png",
+			"sizes": "120x120",
+			"type": "image/png"
+		},
+		{
+			"src": "/favicons/apple-touch-icon-57x57.png",
+			"sizes": "144x144",
+			"type": "image/png"
+		},
+		{
+			"src": "/favicons/apple-touch-icon-57x57.png",
+			"sizes": "152x152",
+			"type": "image/png"
+		},
+		{
+			"src": "/favicons/apple-touch-icon-57x57.png",
+			"sizes": "180x180",
+			"type": "image/png"
+		}
+	]
+}
